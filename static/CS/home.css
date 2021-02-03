@@ -42,7 +42,7 @@
 	padding-top: 100px;
 }
 .fixed{
-background-image: url("marsbg.jpg");
+background-image: url("/media/marsbg.jpg");
 background-repeat: no-repeat;
 background-attachment: fixed;
 height: 50vh;
