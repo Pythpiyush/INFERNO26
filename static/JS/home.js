@@ -1,4 +1,4 @@
-zconst typedTextSpan = document.querySelector(".typed-text");
+const typedTextSpan = document.querySelector(".typed-text");
 
 const textArray = ["Innovate.","Inspire.","Inferno."];
 const typingDelay = 200;

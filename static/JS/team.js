@@ -1,4 +1,4 @@
-  let divcolor=document.getElementById('colorchange')
+let divcolor=document.getElementById('colorchange')
 divcolor.addEventListener("mouseenter", function(e) {
     if(divcolor.style.backgroundColor=='turquoise'){
     divcolor.style.backgroundColor='black';
