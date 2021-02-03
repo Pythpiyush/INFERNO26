@@ -1,1 +1,1 @@
-web: gunicorn skillswings.wsgi
+web: gunicorn INFERNO.wsgi
