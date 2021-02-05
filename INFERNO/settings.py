@@ -27,7 +27,7 @@ SECRET_KEY = '3b6q^*qw9ersh8#8jre6hl)(09#m5k&6h6b#09w$!bpudf-e83'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['skillswings.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['inferno26.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
