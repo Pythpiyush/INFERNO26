@@ -63,7 +63,7 @@ height: 50vh;
   display: flex;
   align-items: center;
   justify-content: center;
- margin-top: 25%;
+    padding-top: 20px;
 
 }
 #launch{
@@ -98,7 +98,7 @@ overflow: hidden;
 	color: #eee;
 }
 .land{
-	height: 100vh;
+	height: 65vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
